@@ -1,0 +1,14 @@
+01012000 0000 (A) Vivamus velit sem, consequat sit amet libero +a
+17062017 0700 (B) Lorem ipsum dolor @sit +amet
+17062017 0620 (B) Curabitur risus @ipsum
+16062017 0700 (C) In hac habitasse platea +dictumst
+17092017 1000 (D) Proin in dictum +dui
+20022000 2200 (E) Etiam vulputate eu sem @non +euismod
+17092017 1000 (F) Quisque bibendum nulla ac mollis eleifend
+20022000 2200 (Z) Nulla nec efficitur nulla
+20022000 2202 Sed maximus purus
+20022000 2203 Sed maximus purus
+20022001 Sed maximus purus
+16062017 0600 Quisque vehicula id quam @nec +facilisis
+2201 Sed maximus purus
+Sed maximus purus
