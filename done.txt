@@ -1,0 +1,9 @@
+03011432 1800 (A) TENTAR IMPEDIR QUE A MINHA CIDADE NATAL SEJA DESTRUÍDA PELO CHEFÃO
+03011432 1900 (B) Falhar miseravelmente
+02005433 (B) Terminar o meu treinamento
+05005433 (B) Começar minha jornada com a espada que meu pai me deixou +Jornada
+Matar 20 slimes!
+(F) Comprar uma capa vermelha @Cidade
+Matar 10 lobos!!
+(H) Guardar os itens de cura para quando eu precisar
+(G) Conseguir um elmo com chifres

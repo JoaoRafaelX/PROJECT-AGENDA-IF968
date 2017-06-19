@@ -1,14 +1,30 @@
-01012000 0000 (A) Vivamus velit sem, consequat sit amet libero +a
-17062017 0700 (B) Lorem ipsum dolor @sit +amet
-17062017 0620 (B) Curabitur risus @ipsum
-16062017 0700 (C) In hac habitasse platea +dictumst
-17092017 1000 (D) Proin in dictum +dui
-20022000 2200 (E) Etiam vulputate eu sem @non +euismod
-17092017 1000 (F) Quisque bibendum nulla ac mollis eleifend
-20022000 2200 (Z) Nulla nec efficitur nulla
-20022000 2202 Sed maximus purus
-20022000 2203 Sed maximus purus
-20022001 Sed maximus purus
-16062017 0600 Quisque vehicula id quam @nec +facilisis
-2201 Sed maximus purus
-Sed maximus purus
+15031435 1500 (A) Derrotar o Chefão antes que ele termine o ritual de destruição do mundo @Dungeon +Jornada
+15031435 1600 (A) Derrotar a segunda forma do Chefão @Dungeon +Jornada
+15031435 1800 (A) Derrotar a forma final do Chefão @Dungeon +Jornada
+(A) NÃO ATACAR A PORCARIA DA GALINHA @Cidade +Jornada
+(C) Conseguir a técnica secreta matadora de Chefões +Jornada
+(C) Achar a biblioteca perdida para descobrir a fraqueza do Chefão +Jornada
+12031435 (D) Conseguir os melhores equipamentos @Cidade
+(G) Fugir da prisão e recuperar meus equipamentos @Ainda_não_fui_preso_mas_eu_sei_que_vai_acontecer +Sempre_acontece_isso_nesse_tipo_de_jogo
+(D) Bater no baú antes de abrir ele! +Sobrevivência
+28121434 (F) Salvar o pirralho que fugiu pro pântano @Vilarejo +Missões
+29121434 1100 (D) Matar o lobisomem que está matando as vacas @Vilarejo +Missões
+29121434 1200 (D) Ir pro churrasco de recompensa @Vilarejo
+(F) Terminar todas as missões do vilarejo @Vilarejo +Missões
+(H) Grindar por Experiência e itens
+(H) Usar os itens de cura!
+(J) Ter uma espada mágica personalizada
+(K) Juntar os 4 Cristais Elementais
+(K) Salvar os 36 espíritos da floresta
+(K) Encontrar as 120 chaves do Baú Supremo
+(K) Desenterrar os 206 Ossos de Cristal
+(K) Parar de aceitar esse tipo de missão
+15031435 2100 (Z) Destruir o ritual de destruição do mundo @Dungeon +Jornada
+0530 Ver o nascer do sol para recuperar a determinação @Fora_Cidade +Sobrevivência
+0600 Checar itens e fazer manutenção nos equipamentos @Fora_Cidade +Sobrevivência
+1730 Procurar abrigo @Fora_Cidade +Sobrevivência
+30/10/1434 Começar minha viagem à Tribo do Norte
+Ficar em alerta o tempo todo @Fora_Cidade +Sobrevivência
+Fazer uma pausa pra ir no banheiro e beber água
+Escovar os dentes depois das refeições +Sobrevivência
+NÃO QUEBRAR A 4ª PAREDE
